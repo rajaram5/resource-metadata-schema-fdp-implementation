@@ -36,7 +36,7 @@
   sh:targetClass sio:SIO_001166;
   sh:property [
     sh:path rdfs:label;
-    sh:in ("National" "International" "Regional");
+    sh:in ("National" "International" "Regional" "European");
     sh:nodeKind sh:Literal ;
     dash:editor dash:TextFieldEditor;
     dash:viewer dash:LabelViewer
